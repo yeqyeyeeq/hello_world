@@ -1,11 +1,8 @@
 git : 프로그램과 관련된 파일을 저장
 clone
 add: 스테이지에 올리기 (저장을 원하는 파일을 묶는다.)
-commit: 저장
+commit: 저장 규칙: 수정 한번에 한번씩
 push: github에 업로드 
-
- https://github.com/yeqyeyeeq/hello_world
-커밋: 한번에 한번씩
 
 
 코드뭉치 버리기: 마지막 저장으로 돌아가기
